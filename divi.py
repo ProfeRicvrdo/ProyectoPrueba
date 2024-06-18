@@ -1,5 +1,5 @@
 try:
-    numerador =int(input('Ingresa un numero'));
+    numerador =int(input('Ingresa un numero hola '));
     denominador =int(input('ingresa otro numero'));
     resultado = numerador / denominador
 except ZeroDivisionError as e:
